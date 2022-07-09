@@ -1,4 +1,5 @@
 let r=5;
-let area=3.14*r*r;
+const pi = 3.14;
+let area=pi*r*r;
 
 console.log("Area of a circle is"+area);

@@ -1,0 +1,10 @@
+let mark1=80;
+let mark2=65;
+let mark3=90;
+let mark4=70;
+let mark5=60;
+let total;
+let average;
+total=mark1+mark2+mark3+mark4+mark5;
+average=total/5;
+console.log("Average is "+average);
